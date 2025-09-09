@@ -1,6 +1,9 @@
 # University Course Registration and Grade Management System
 
-A comprehensive database-driven application for managing university course registration, student enrollment, and grade management.
+A comprehensive database-driven application for managing university course registration, student enrollment, and grade management. ()
+
+> **Attention:** If you are a CS student at SCUT working on **"Database Course Design 2025"**, please **do not** directly reference this project — I am the teaching assistant for that course. This project was created solely to test MetaGPT's functionality in software development and to provide insights for AI-agent development in the LLM era.
+
 
 ## Features
 
@@ -61,7 +64,7 @@ A comprehensive database-driven application for managing university course regis
 1. **Clone or download** the project files
 2. **Run the setup script**:
    ```bash
-   cd database_implementation
+   cd src
    python setup.py
    ```
 3. **Follow the prompts** to configure the database
